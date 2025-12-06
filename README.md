@@ -1,4 +1,7 @@
-# Codedex-classes
+# Codedex-classes for pythong 
+
+Area Calculator 
+
 
 import math 
 
@@ -34,3 +37,5 @@ elif shape == 2:
 elif shape == 1:
   area_1 = (base * height)/2 
   print('The area of the rectangle is', area_1)
+else:
+  print('error')
