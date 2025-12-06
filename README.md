@@ -1,4 +1,4 @@
-# Codedex-classes for pythong 
+# Codedex-classes for python
 
 Area Calculator 
 
